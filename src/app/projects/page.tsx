@@ -57,7 +57,7 @@ export default function ProjectsPage() {
       </section>
       
       {/* Call to Action */}
-      <section className="py-16 bg-white border-t">
+      <section className="py-4 bg-white border-t">
         <div className="container mx-auto px-4 max-w-5xl text-center">
           <h2 className="text-2xl font-bold mb-4">Interested in my work?</h2>
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">

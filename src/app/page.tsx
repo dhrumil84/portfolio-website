@@ -1,6 +1,11 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
+export const metadata = {
+  title: 'Dhrumil Patel | Data Analytics & AI Specialist',
+  description: 'Data analytics and machine learning professional with expertise in Python, SQL, and business intelligence.',
+};
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col">
@@ -264,7 +269,7 @@ export default function Home() {
       </section>
       
       {/* Call to Action */}
-      <section className="py-16 bg-blue-600 text-white">
+      <section className="py-6 bg-blue-600 text-white">
         <div className="container mx-auto px-4 max-w-5xl text-center">
           <h2 className="text-3xl font-bold mb-4">Interested in working together?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
