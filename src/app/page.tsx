@@ -223,7 +223,6 @@ export default function Home() {
               <h3 className="text-xl font-bold mb-2">Visualization</h3>
               <ul className="text-gray-600 space-y-2">
                 <li>Power BI</li>
-                <li>Tableau</li>
                 <li>Interactive Dashboards</li>
                 <li>Data Storytelling</li>
               </ul>
